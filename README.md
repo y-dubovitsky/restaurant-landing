@@ -12,7 +12,7 @@ For further reference, please consider the following sections:
 ### Guides
 The following guides illustrate how to use some features concretely:
 
-* [Building a RESTful Web Service](https://spring.io/guides/gs/rest-service/)
+* [Error: heroku Fatal error compiling: invalid target release: 11](https://stackoverflow.com/questions/53604111/heroku-cannot-deploy-java-11-spring-boot-app)
 * [Serving Web Content with Spring MVC](https://spring.io/guides/gs/serving-web-content/)
 * [Building REST services with Spring](https://spring.io/guides/tutorials/bookmarks/)
 
